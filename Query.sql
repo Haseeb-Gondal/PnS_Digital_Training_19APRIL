@@ -11,5 +11,8 @@ FROM TEST_TABLE_2
 WHERE CONDITION_3 = CONDITION_4;
 
 
+Select column 5 from test_3;  --- Haseeb's COde
+
+
 
 
