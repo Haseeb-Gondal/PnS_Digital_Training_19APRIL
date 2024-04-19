@@ -12,6 +12,8 @@ WHERE CONDITION_3 = CONDITION_4;
 
 
 Select column 6 from test_3;  --- Javid's COde
+ 
+ ---Adding new new part
 
 
 
